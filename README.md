@@ -5,6 +5,7 @@ owasp-zap -daemon -port 8080 -host localhost -quickurl http://testphp.vulnweb.co
 
 Conversão para resultado Sarif:
 python owaspzap-sarif.py -J results.json
-![Uploading image.png…]()
+![image](https://github.com/cnetsec/owaspzap-sarif/assets/86935257/2f7892f8-935e-4cc4-bf1f-54e42d48b3ac)
+
 
 
